@@ -1,1 +1,3 @@
-# I just click buttons until shit works tbh
+<h1 align="center">
+I click buttons
+</h1>
