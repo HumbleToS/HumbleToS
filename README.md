@@ -4,8 +4,8 @@ I click buttons
 
 <!--START_SECTION:waka-->
 
-```text
-From: 12 September 2022 - To: 01 June 2023
+```txt
+From: 12 September 2022 - To: 02 June 2023
 
 Total Time: 173 hrs 13 mins
 
