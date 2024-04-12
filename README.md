@@ -5,7 +5,7 @@ I click buttons
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2022 - To: 10 April 2024
+From: 12 September 2022 - To: 11 April 2024
 
 Total Time: 192 hrs 42 mins
 
